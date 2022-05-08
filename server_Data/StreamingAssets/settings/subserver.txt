@@ -1,1 +1,1 @@
-wss://localhost:
+wss://hippo-nft-main.com:
